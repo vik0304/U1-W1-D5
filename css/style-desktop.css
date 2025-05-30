@@ -1,4 +1,5 @@
 
+/* stili generali */
 @import url('https://fonts.googleapis.com/css2?family=Montserrat:ital,wght@0,100..900;1,100..900&family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap');
 
 
@@ -7,6 +8,8 @@ body {
     margin:0;
     text-align: center;
 }
+
+/* header con logo*/
 
 header {
     background-color: black;
@@ -18,6 +21,8 @@ header img {
     width: 8%; 
     margin: 0 0 0 3rem;
 }
+
+/* box con immagine di sfondo */
 
 .container-titolo {
     background-image: url(../images/banner.jpg);;
@@ -61,6 +66,8 @@ button:hover {
     background-color: #aa1c0a;
 }
 
+/* sezione con info + immagine a cerchio */
+
 section {
     margin: 10rem 0;
 }
@@ -97,6 +104,8 @@ h2 {
     margin: 1.3em 0;
 }
 
+/* box con citazione */
+
 .box-quote {
     background-color:#e22d03;
     padding: 40px 25px 25px;
@@ -121,6 +130,8 @@ h2 {
     margin-top: 0;
     font-size: 1rem;
 }
+
+/* 3 box con bordi */
 
 .box-section{
     width: 100%;
@@ -157,6 +168,8 @@ h2 {
 .box-image {
     height: 350px;
 }
+
+/* footer con contatti */
 
 footer {
     background-color: #25a2c3;
