@@ -126,6 +126,15 @@ h2 {
     width: 100%;
 }
 
+.box-section a{
+    color: #25a2c3;
+    text-decoration: none;;
+}
+
+.box-section a:visited{
+    color: #25a2c3;
+}
+
 .box {
     text-align: center;
     width: 25%;

@@ -118,6 +118,15 @@ h2 {
     margin-bottom: 35px;
 }
 
+.box a{
+    color: #25a2c3;
+    text-decoration: none;;
+}
+
+.box a:visited{
+    color: #25a2c3;
+}
+
 .box :not(.box-image) {
     padding: 0 20px;
 }
